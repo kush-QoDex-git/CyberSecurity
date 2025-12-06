@@ -5,3 +5,4 @@ stashing test
 =======
 testing stashing
 >>>>>>> Stashed changes
+local master to public development
